@@ -1,0 +1,6 @@
+com\adso\mvnpagosofa\JakartaRestConfiguration.class
+com\adso\mvnpagosofa\loginservlet\SettingsServlet.class
+com\adso\mvnpagosofa\resources\JakartaEE10Resource.class
+com\adso\mvnpagosofa\loginservlet\loginServlet.class
+com\adso\mvnpagosofa\loginservlet\addPaymentServlet.class
+com\adso\mvnpagosofa\loginservlet\NotificationServlet.class
